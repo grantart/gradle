@@ -1,3 +1,0 @@
- - File system watching (experimental)
- - New version ordering scheme (feature preview)
- - New sample builds in documentation
